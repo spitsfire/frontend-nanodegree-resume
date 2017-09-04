@@ -1,3 +1,5 @@
+//all code below was created by me. Helper.js was prefabricated for my use.
+
 // init vars
 var formattedName = HTMLheaderName.replace("%data%", "Claire Elliott");
 var formattedRole = HTMLheaderRole.replace("%data%", "Aspiring Web Developer");
