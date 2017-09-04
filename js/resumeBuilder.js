@@ -1,4 +1,4 @@
-//all code below was created by me. Helper.js was prefabricated for my use.
+//all code below was created by me. Helper.js and jQuiery.js were prefabricated for my use.
 
 // init vars
 var formattedName = HTMLheaderName.replace("%data%", "Claire Elliott");
