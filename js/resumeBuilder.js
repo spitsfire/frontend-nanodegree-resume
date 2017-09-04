@@ -4,7 +4,7 @@
 var formattedName = HTMLheaderName.replace("%data%", "Claire Elliott");
 var formattedRole = HTMLheaderRole.replace("%data%", "Aspiring Web Developer");
 var formattedImage = HTMLbioPic.replace("%data%", "images/claire.jpg");
-var formattedWelcome = HTMLwelcomeMsg.replace("%data%", "Gonna make sum shit up rn and totally smoke this later yo!!");
+var formattedWelcome = HTMLwelcomeMsg.replace("%data%", "Gonna make sum stuff up rn and totally smoke this later yo!!");
 var formattedEmail = HTMLemail.replace("%data%", "yue.katou@gmail.com");
 var formattedTwitter = HTMLtwitter.replace("%data%", "slanndalous");
 var formattedGithub = HTMLgithub.replace("%data%", "spitsfire");
